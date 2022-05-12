@@ -1,3 +1,4 @@
+// I just copied this one
 int countVowelStrings(int n){
     int a=1, e=1, i=1, o=1, u=1;
     while (--n) {
