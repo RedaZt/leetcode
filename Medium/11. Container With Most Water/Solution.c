@@ -9,8 +9,7 @@ int maxArea(int* height, int heightSize){
                 if (p * (j-i) > m)
                     m = p * (j-i);
             }
-        }
-        
+        }   
     }
     return m;
 }
